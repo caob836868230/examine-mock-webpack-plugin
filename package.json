@@ -1,6 +1,6 @@
 {
   "name": "examine-mock-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "examine mock interface in your code",
   "main": "./lib/webpack4/examine.plugin.js",
   "directories": {
@@ -18,7 +18,8 @@
     "mock-plugin",
     "webpack-plugin",
     "check mock interface",
-    "mock interface"
+    "mock interface",
+    "examine-mock-webpack-plugin"
   ],
   "author": "",
   "license": "ISC",
