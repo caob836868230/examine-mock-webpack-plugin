@@ -1,0 +1,32 @@
+{
+  "name": "examine-mock-webpack-plugin",
+  "version": "1.0.0",
+  "description": "examine mock interface in your code",
+  "main": "./lib/webpack4/examine.plugin.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caob836868230/examine-mock-webpack-plugin.git"
+  },
+  "keywords": [
+    "mock-plugin",
+    "webpack-plugin",
+    "check mock interface",
+    "mock interface"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caob836868230/examine-mock-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/caob836868230/examine-mock-webpack-plugin#readme",
+  "peerDependencies": {
+    "chalk": "^5.0.0"
+  }
+}
