@@ -29,5 +29,8 @@
   "homepage": "https://github.com/caob836868230/examine-mock-webpack-plugin#readme",
   "peerDependencies": {
     "chalk": "^5.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^5.0.1"
   }
 }
