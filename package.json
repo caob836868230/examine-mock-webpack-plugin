@@ -1,6 +1,6 @@
 {
   "name": "examine-mock-webpack-plugin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "examine mock interface in your code",
   "main": "./lib/webpack4/examine.plugin.js",
   "directories": {
